@@ -40,7 +40,7 @@ EYC'yi komut satırından her an çağırabilmek için şu adımları izleyin:
 | Komut | İşlev | Notlar |
 | :--- | :--- | :--- |
 | `eyc -c dosya.eyc` | `.eyc` dosyasını derler. | Çıktı otomatik `.js` olur. Dosya halihazırda varsa mevcut dosyanın üzerine yazar! |
-| `eyc built -i derlenmis.js cikis.html` | Minimalist bir `.html` index dosyası oluşturur. İçerisinde EYC'teki "@root" ortamını kurar.
+| `eyc index derlenmis.js cikis.html` | Minimalist bir `.html` index dosyası oluşturur. İçerisinde EYC'teki "@root" ortamını kurar.
 
 ---
 
